@@ -1,0 +1,2 @@
+# Mod-the-cube
+Dans cette mission, vous avez appris à ouvrir, lire et modifier des scripts. Vous avez pratiqué des défis de programmation fondamentaux et, espérons-le, vous commencez à vous sentir à l'aise avec les scripts de base. Dans cet exercice, vous serez chargé de modifier le comportement d'un script déjà existant. Nous laissons ce défi ouvert, alors c'est le moment de faire preuve de créativité !
